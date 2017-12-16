@@ -1,0 +1,98 @@
+/*Code for changing the background of Navbar and changing pushing navbar a little bottom*/
+.navbar-background{
+    width: 100%;
+    height: 80px;
+    background-color: #65ad2b;
+}
+
+.navbar{
+    margin-top: 14px;
+}
+/*End of Code*/
+
+
+/*STYLE for NAVBAR BRAND IMAGE*/
+.navbar-brand img{
+    height: 40px;
+    width: 40px;
+    margin-top: -0.5em;
+}
+/*End of Code FOR NAVBAR BRAND LOGO*/
+
+/*STYLE for FEATURES*/
+#features .fa{
+      font-size:80px;
+}
+
+.main-content-icons{
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 140px;
+}
+
+#features h4{
+    text-align: center;
+    font-size: 30px;
+}
+/*END OF STYLE FOR FEATURES*/
+
+
+
+
+/*STYLE for FOOTER*/
+footer{
+    background-color: #424440;
+    color: white;
+    text-decoration: none;
+    height: 150px;
+    font-size: 17px;
+}
+
+.footer-ul{
+    margin: 10px;
+}
+
+#end-footer{
+	text-align: center;
+    background: #313330;
+    color: white;
+}
+
+#end-footer p{
+    margin-top: 2px;
+}
+#main-footer ul li{
+    list-style: none;
+}
+/*End of FOOTER*/
+
+
+/* Login page */
+#registration {
+text-align: center;
+}
+.btn-align{
+    margin-left: 41%;
+    display: block;
+}
+.login-container {
+  margin-top: 2%;
+  border: 2px solid black;
+  margin-left: 28%;
+  margin-right: 38%;
+  width: 40%;
+}
+/*End of STYLE for LOGIN PAGE*/
+
+ /* SIgn up page */
+ #signup-form{
+      margin-top: 2%;
+        border: 2px solid black;
+        padding: 15px;
+        margin-bottom: 15px;
+  }
+
+  .btn-signup {
+      margin-left: 48%;
+  }
+/*END of STYLE for signup page*/
